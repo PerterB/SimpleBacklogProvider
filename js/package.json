@@ -1,0 +1,9 @@
+{
+    "name": "SimpleBacklogProvider",
+    "version": "0.0.1",
+    "description": "Simple Backlog Provider for Scrum Poker",
+    "dependencies": {
+        "socket.io-client": "latest"
+    },
+    "author": "Peter Bracken"
+}
